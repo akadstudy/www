@@ -1,18 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>https://akadstudy.github.io/www/en/sitemap.xml</loc>
-    
-      <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://akadstudy.github.io/www/blog/algorithms/</loc>
+    <lastmod>2020-01-01T16:21:12+02:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>https://akadstudy.github.io/www/fr/sitemap.xml</loc>
-    
-      <lastmod>2018-09-12T14:51:12+06:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>https://akadstudy.github.io/www/blog/</loc>
+    <lastmod>2020-01-01T16:21:12+02:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>https://akadstudy.github.io/www/</loc>
+    <lastmod>2020-01-01T16:21:12+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/blog/chap1/</loc>
+    <lastmod>2020-01-01T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/blog/chap2/</loc>
+    <lastmod>2020-01-01T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/tags/</loc>
+  </url>
+  
+</urlset>

@@ -1,92 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Meghna</title>
+    <title>Blogs on PEREZRE</title>
     <link>https://akadstudy.github.io/www/blog/</link>
-    <description>Recent content in Blogs on Meghna</description>
+    <description>Recent content in Blogs on PEREZRE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2020 Designed by [Themefisher](https://themefisher.com) &amp; Developed by [Gethugothemes](https://gethugothemes.com)</copyright>
-    <lastBuildDate>Wed, 12 Sep 2018 14:51:12 +0600</lastBuildDate><atom:link href="https://akadstudy.github.io/www/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>copyright &amp;copy; 2020 [perezre](https://akadstudy.github.io/2/) all right reserved</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 16:21:12 +0200</lastBuildDate><atom:link href="https://akadstudy.github.io/www/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Are You Doing the Right Way</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-8/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <title>Algorithms</title>
+      <link>https://akadstudy.github.io/www/blog/algorithms/</link>
+      <pubDate>Wed, 01 Jan 2020 16:21:12 +0200</pubDate>
       
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-8/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://akadstudy.github.io/www/blog/algorithms/</guid>
+      <description>Algorithms About This is an unoﬃcial documentaion created for educational purposes and is not aﬃliated with oﬃcial Algorithms group(s) or company(s) nor Stack Overﬂow.</description>
     </item>
     
     <item>
-      <title>How To Setup Meghna Hugo</title>
-      <link>https://akadstudy.github.io/www/blog/installation/</link>
-      <pubDate>Wed, 12 Sep 2018 14:51:12 +0600</pubDate>
+      <title>A sample algorithmic problem</title>
+      <link>https://akadstudy.github.io/www/blog/chap1/</link>
+      <pubDate>Wed, 01 Jan 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://akadstudy.github.io/www/blog/installation/</guid>
-      <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer.</description>
+      <guid>https://akadstudy.github.io/www/blog/chap1/</guid>
+      <description>The algorithmic problem Section 1.1: The problem An algorithmic problem is speciﬁed by describing the complete set of instances it must work on and of its output after running on one of these instances.</description>
     </item>
     
     <item>
-      <title>Simple Blog Post</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-1/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Algorithm Complexity</title>
+      <link>https://akadstudy.github.io/www/blog/chap2/</link>
+      <pubDate>Wed, 01 Jan 2020 14:51:12 +0600</pubDate>
       
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-1/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-2/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-2/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-3/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-3/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-4/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-4/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-5/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-5/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-6/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-6/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
-    </item>
-    
-    <item>
-      <title>Simple Blog Post</title>
-      <link>https://akadstudy.github.io/www/blog/simple-blog-post-7/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
-      
-      <guid>https://akadstudy.github.io/www/blog/simple-blog-post-7/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae.</description>
+      <guid>https://akadstudy.github.io/www/blog/chap2/</guid>
+      <description>Algorithms and complexity Section 2.1: Big-Theta Unlike Big-O notation, which represents only upper bound of the running time for some algorithm, Big-Theta is a tight bound; both upper and lower bound.</description>
     </item>
     
   </channel>
