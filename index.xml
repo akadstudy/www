@@ -14,8 +14,7 @@
       <pubDate>Sun, 12 Jan 2020 14:51:12 +0600</pubDate>
       
       <guid>https://akadstudy.github.io/www/blog/dns/</guid>
-      <description>Introduction This article, will talk about
- What DNS is and what it does What DNS servers do How Internet Protocol (IP) Addresses work in the context of DNS  The Concepts There are some essential mental models to be familiar with when learning about DNS, DNS servers, and IP addresses.</description>
+      <description>Introduction This article, will talk about</description>
     </item>
     
     <item>
@@ -24,7 +23,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://akadstudy.github.io/www/author/john-doe/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
@@ -33,7 +32,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://akadstudy.github.io/www/author/mark-dinn/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida.</description>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
   </channel>
