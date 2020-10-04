@@ -23,16 +23,6 @@
   </url>
   
   <url>
-    <loc>https://akadstudy.github.io/www/tags/basics/</loc>
-    <lastmod>2020-01-05T19:10:09+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://akadstudy.github.io/www/tags/</loc>
-    <lastmod>2020-01-05T19:10:09+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://akadstudy.github.io/www/blog/cmd01/</loc>
     <lastmod>2020-01-05T19:10:09+02:00</lastmod>
   </url>
@@ -51,6 +41,10 @@
   
   <url>
     <loc>https://akadstudy.github.io/www/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://akadstudy.github.io/www/tags/</loc>
   </url>
   
 </urlset>
