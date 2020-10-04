@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on PEREZRE</title>
-    <link>https://akadstudy.github.io/www/author/</link>
+    <link>https://perezre.netlify.app/author/</link>
     <description>Recent content in Authors on PEREZRE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>copyright &amp;copy; 2020 Designed by Themefisher &amp; Developed by Gethugothemes</copyright><atom:link href="https://akadstudy.github.io/www/author/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>copyright &amp;copy; 2020 Designed by Themefisher &amp; Developed by Gethugothemes</copyright><atom:link href="https://perezre.netlify.app/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>John Doe</title>
-      <link>https://akadstudy.github.io/www/author/john-doe/</link>
+      <link>https://perezre.netlify.app/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://akadstudy.github.io/www/author/john-doe/</guid>
+      <guid>https://perezre.netlify.app/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
     <item>
       <title>Mark Dinn</title>
-      <link>https://akadstudy.github.io/www/author/mark-dinn/</link>
+      <link>https://perezre.netlify.app/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://akadstudy.github.io/www/author/mark-dinn/</guid>
+      <guid>https://perezre.netlify.app/author/mark-dinn/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
     </item>
     
