@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>copyright &amp;copy; 2020 Designed by Themefisher &amp; Developed by Gethugothemes</copyright>
-    <lastBuildDate>Sun, 27 Sep 2020 19:10:09 +0200</lastBuildDate><atom:link href="https://perezre.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 23:45:14 +0200</lastBuildDate><atom:link href="https://perezre.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Coming soon</title>
+      <link>https://perezre.netlify.app/blog/todo/</link>
+      <pubDate>Sun, 04 Oct 2020 23:45:14 +0200</pubDate>
+      
+      <guid>https://perezre.netlify.app/blog/todo/</guid>
+      <description>An Overview Here I give a listed overview of some things I did and do in my free time.</description>
+    </item>
+    
     <item>
       <title>Terminal Commands To Rock Your World</title>
       <link>https://perezre.netlify.app/blog/cmd01/</link>
