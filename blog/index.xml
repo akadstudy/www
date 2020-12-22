@@ -44,5 +44,14 @@
       <description>Build a Website with Hugo Here I&amp;rsquo;ll show in short how to build a Website with Hugo, one of the world&amp;rsquo;s fastest framework for building websites.</description>
     </item>
     
+    <item>
+      <title>Deploy a site on Github Pages</title>
+      <link>https://perezre.netlify.app/blog/hugogithub/</link>
+      <pubDate>Sun, 13 Sep 2020 20:53:56 +0200</pubDate>
+      
+      <guid>https://perezre.netlify.app/blog/hugogithub/</guid>
+      <description>Preparation Get into your Hugo Folder and type:</description>
+    </item>
+    
   </channel>
 </rss>
