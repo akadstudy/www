@@ -6,15 +6,24 @@
     <description>Recent content in Blogs on PEREZRE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>copyright &amp;copy; 2020 Designed by Themefisher &amp; Developed by Gethugothemes</copyright>
-    <lastBuildDate>Sun, 04 Oct 2020 23:45:14 +0200</lastBuildDate><atom:link href="https://perezre.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>copyright &amp;copy; 2021 Designed by Themefisher &amp; Developed by Gethugothemes</copyright>
+    <lastBuildDate>Sun, 15 Nov 2020 23:45:14 +0200</lastBuildDate><atom:link href="https://perezre.netlify.app/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s next?</title>
+      <link>https://perezre.netlify.app/blog/update/</link>
+      <pubDate>Sun, 15 Nov 2020 23:45:14 +0200</pubDate>
+      
+      <guid>https://perezre.netlify.app/blog/update/</guid>
+      <description>Update There are some updates to make.</description>
+    </item>
+    
     <item>
       <title>Coming soon</title>
       <link>https://perezre.netlify.app/blog/todo/</link>
       <pubDate>Sun, 04 Oct 2020 23:45:14 +0200</pubDate>
       
       <guid>https://perezre.netlify.app/blog/todo/</guid>
-      <description>An Overview Here I give a listed overview of some things I did and do in my free time.</description>
+      <description>An Overview Here I give a listed overview of some things I did and like to do, as time allows.</description>
     </item>
     
     <item>

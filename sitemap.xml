@@ -1,60 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://perezre.netlify.app/blog/</loc>
-    <lastmod>2020-10-04T23:45:14+02:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2020-11-15T23:45:14+02:00</lastmod>
+  </url><url>
+    <loc>https://perezre.netlify.app/</loc>
+    <lastmod>2020-11-15T23:45:14+02:00</lastmod>
+  </url><url>
+    <loc>https://perezre.netlify.app/blog/update/</loc>
+    <lastmod>2020-11-15T23:45:14+02:00</lastmod>
+  </url><url>
     <loc>https://perezre.netlify.app/blog/todo/</loc>
     <lastmod>2020-10-04T23:45:14+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://perezre.netlify.app/</loc>
-    <lastmod>2020-10-04T23:45:14+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/blog/cmd01/</loc>
     <lastmod>2020-09-27T19:10:09+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/blog/cat/</loc>
     <lastmod>2020-09-20T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/blog/hugo/</loc>
     <lastmod>2020-09-13T20:53:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/blog/hugogithub/</loc>
     <lastmod>2020-09-13T20:53:56+02:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/author/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/author/john-doe/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/author/mark-dinn/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://perezre.netlify.app/tags/</loc>
   </url>
-  
 </urlset>
